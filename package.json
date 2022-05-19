@@ -19,7 +19,7 @@
     "url": "https://github.com/Vitalii-Krat/goit-nodejs-hm-01/issues"
   },
   "homepage": "https://github.com/Vitalii-Krat/goit-nodejs-hm-01#readme",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^2.0.16"
   }
 }
