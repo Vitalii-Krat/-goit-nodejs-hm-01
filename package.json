@@ -4,7 +4,9 @@
   "description": "first project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,9 @@
   "homepage": "https://github.com/Vitalii-Krat/goit-nodejs-hm-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "commander": "^9.2.0",
+    "uuid": "^8.3.2"
   }
 }
