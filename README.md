@@ -8,7 +8,7 @@ https://ibb.co/ryRc95D
 
 https://ibb.co/xh33FjC
 
-# Добавялем контакт
+# Добавляем контакт
 
 https://ibb.co/XsnKn12
 
